@@ -6,3 +6,5 @@ A webhook spammer using [Discord-WebHook-Sender-Library](https://github.com/01-F
 
 # How to use
 Follow the steps in the console app
+
+![Preview](https://i.imgur.com/zvwYtEw.png)
