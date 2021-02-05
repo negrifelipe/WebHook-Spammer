@@ -2,7 +2,7 @@
 
 [![Github All Releases](https://img.shields.io/github/downloads/01-Feli/WebHook-Spammer/total?label=Github%20Downloads)]()
 
-A webhook spammer 
+A webhook spammer for discord
 
 # How to download
 
