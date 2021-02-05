@@ -1,6 +1,6 @@
 # WebHook-Spammer
 
-[![Github All Releases](https://img.shields.io/github/downloads/01-Feli/WebHook-Spammer/total.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/01-Feli/WebHook-Spammer/total?label=Github%20Downloads)]()
 
 A webhook spammer 
 
